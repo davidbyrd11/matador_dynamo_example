@@ -1,4 +1,4 @@
 Matador Project w/ Dynamo DB
 ======================
 
-Playing around with DynamoDB &amp; Matador.
+When you start the app (`node server`), the tests for the user model that are in the test.js file are run.

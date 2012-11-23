@@ -8,6 +8,7 @@
   "dependencies": {
     "torero": "*",
     "dynamo": "~0.2.14",
-    "assert": "~0.4.9"
+    "assert": "~0.4.9",
+    "async": "~0.1.22"
   }
 }

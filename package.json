@@ -1,0 +1,13 @@
+{
+  "name": "testing-example",
+  "description": "A project made with Torero",
+  "version": "0.0.0",
+  "engines": {
+    "node": ">=0.6.0 <0.9"
+  },
+  "dependencies": {
+    "torero": "*",
+    "dynamo": "~0.2.14",
+    "assert": "~0.4.9"
+  }
+}

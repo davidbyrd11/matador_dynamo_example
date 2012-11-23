@@ -1,4 +1,4 @@
-matador_dynamo_example
+Matador Project w/ Dynamo DB
 ======================
 
-Playing around with DynamoDB &amp; Matador
+Playing around with DynamoDB &amp; Matador.

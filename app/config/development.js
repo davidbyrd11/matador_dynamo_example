@@ -1,7 +1,7 @@
 module.exports = {
   base: {
-    aws_key:'AKIAIFDOREOAE3AQARAA',
-    aws_secret:'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'
+    aws_key:'AWS_KEY',
+    aws_secret:'AWS_SECRET'
   },
   models: {},
   services: {},
